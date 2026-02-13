@@ -20,5 +20,9 @@ A professional web application designed to manage customer records using XML as 
 3. Access the application via `localhost/XML-Customer-Manager-PHP/index.html`.
 4. Ensure the `customer.xml` file has appropriate read/write permissions.
 
+## Interface Preview
+
+![Customer Manager UI](screenshots/customer_manager_ui.png)
+
 ---
 *Developed for the Semester 3 Curriculum - Department of Software Technology at the University of Vocational Technology (UoVT) by Thilina Sandakelum Wijesinghe*
