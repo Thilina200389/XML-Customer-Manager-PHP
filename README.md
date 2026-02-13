@@ -1,6 +1,6 @@
 # Customer Manager (PHP & XML CRUD)
 
-A professional web application designed to manage customer records using XML as a flat-file database. This project was developed for the **Web Technology and Applications (IT304011)** module.
+A professional web application designed to manage customer records using XML as a flat-file database. This project was developed for the **Web Technology and Applications** module.
 
 ## Key Features
 * **Full CRUD Operations:** Add, Search, Update, and Delete customer records seamlessly.
