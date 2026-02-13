@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<customers>
+  <customer id="12002">
+    <name>Charter Group</name>
+    <telno>+65468373945</telno>
+    <email>charter@yahoo.com</email>
+    <address>
+      <street>100 Main</street>
+      <city>Framingham</city>
+      <state>MA</state>
+      <zip>01701</zip>
+    </address>
+  </customer>
+  <customer id="12004">
+    <name>Kevin Peterson</name>
+    <telno>+34465739024</telno>
+    <email>peterson@gmail.com</email>
+    <address>
+      <street>34/5</street>
+      <city>Walls</city>
+      <state>Washington</state>
+      <zip>34573</zip>
+    </address>
+  </customer>
+  <customer id="12005">
+    <name>Thilina Sandakelum</name>
+    <telno>+94787769314</telno>
+    <email>thilinasandakelum2003@gmail.com</email>
+    <address>
+      <street>662/10, 9th Mile Post, Ranakeliya South</street>
+      <city>Tissamaharama</city>
+      <state>Southern</state>
+      <zip>82600</zip>
+    </address>
+  </customer>
+  <customer id="12006">
+    <name>Sandakelum Wijesinghe</name>
+    <telno>+94787769314</telno>
+    <email>thilinasandakelum2003@gmail.com</email>
+    <address>
+      <street>662/10, 9th Mile Post, Ranakeliya South</street>
+      <city>Tissamaharama</city>
+      <state>Southern</state>
+      <zip>82600</zip>
+    </address>
+  </customer>
+</customers>
